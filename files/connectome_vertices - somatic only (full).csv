@@ -1,0 +1,281 @@
+Name,System,Neurotransmitter,ConfidenceInNeuroTransmitter,Type_Main,Type_Class,Type_Full
+ADAL,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+ADAR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+ADEL,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron
+ADER,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron
+ADFL,Somatic,Serotonin,1,Sensory Neuron,Single,Sensory neuron (chemosensory)
+ADFR,Somatic,Serotonin,1,Sensory Neuron,Single,Sensory neuron (chemosensory)
+ADLL,Somatic,FMRFamide,1,Sensory Neuron,Multiple,"Sensory neuron (chemosensory, odorsensory, nociceptive)"
+ADLR,Somatic,FMRFamide,1,Sensory Neuron,Multiple,"Sensory neuron (chemosensory, odorsensory, nociceptive)"
+AFDL,Somatic,Glutamate,0.4,Sensory Neuron,Multiple,Sensory neuron (thermosensory and CO2- sensory)
+AFDR,Somatic,Glutamate,0.4,Sensory Neuron,Multiple,Sensory neuron (thermosensory and CO2- sensory)
+AIAL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+AIAR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+AIBL,Somatic,Glutamate,0.3,Interneuron,Single,Interneuron
+AIBR,Somatic,Glutamate,0.3,Interneuron,Single,Interneuron
+AIML,Somatic,Serotonin,1,Interneuron,Single,Interneuron
+AIMR,Somatic,Serotonin,1,Interneuron,Single,Interneuron
+AINL,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AINR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AIYL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+AIYR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+AIZL,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+AIZR,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+ALA,Somatic,Glutamate,0.8,Interneuron,Single,Interneuron
+ALML,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+ALMR,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+ALNL,Somatic,Acetylcholine,1,Unknown,Single,Neuron with unknown function
+ALNR,Somatic,Acetylcholine,1,Unknown,Single,Neuron with unknown function
+AQR,Somatic,Glutamate,0.5,Sensory Neuron,Single,Putative sensory neuron (Oxygen sensor)
+AS1,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS10,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS11,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS2,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS3,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS4,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS5,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS6,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS7,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS8,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+AS9,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+ASEL,Somatic,FMRFamide,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+ASER,Somatic,FMRFamide,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+ASGL,Somatic,Glutamate,0.5,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+ASGR,Somatic,Glutamate,0.5,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+ASHL,Somatic,Glutamate,1,Sensory Neuron,Multiple,"Sensory neuron (Osmo-, mechano- and odorsensory, nociceptive)"
+ASHR,Somatic,Glutamate,1,Sensory Neuron,Multiple,"Sensory neuron (Osmo-, mechano- and odorsensory, nociceptive)"
+ASIL,Somatic,-,0.2,Sensory Neuron,Multiple,"Sensory neuron (Chemosensory, thermosensory)"
+ASIR,Somatic,-,0.2,Sensory Neuron,Multiple,"Sensory neuron (Chemosensory, thermosensory)"
+ASJL,Somatic,Glutamate,0.2,Sensory Neuron,Single,Sensory neuron
+ASJR,Somatic,Glutamate,0.2,Sensory Neuron,Single,Sensory neuron
+ASKL,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+ASKR,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+AUAL,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AUAR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AVAL,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVAR,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVBL,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+AVBR,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+AVDL,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVDR,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVEL,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVER,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVFL,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVFR,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVG,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+AVHL,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVHR,Somatic,Glutamate,0.4,Interneuron,Single,Interneuron
+AVJL,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AVJR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+AVKL,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVKR,Somatic,FMRFamide,1,Interneuron,Single,Interneuron
+AVL,Somatic,GABA,1,Interneuron,Multiple,Polymodal (Interneuron/motor neuron)
+AVM,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+AWAL,Somatic,-,0.2,Sensory Neuron,Single,Sensory neuron (Odorsensory)
+AWAR,Somatic,-,0.2,Sensory Neuron,Single,Sensory neuron (Odorsensory)
+AWBL,Somatic,Glutamate,0.3,Sensory Neuron,Single,Sensory neuron (Odorsensory)
+AWBR,Somatic,Glutamate,0.3,Sensory Neuron,Single,Sensory neuron (Odorsensory)
+AWCL,Somatic,Glutamate,0.5,Sensory Neuron,Multiple,Sensory neuron (Odorsensory and thermosensory)
+AWCR,Somatic,Glutamate,0.5,Sensory Neuron,Multiple,Sensory neuron (Odorsensory and thermosensory)
+BAGL,Somatic,Glutamate,0.7,Sensory Neuron,Single,Sensory neuron
+BAGR,Somatic,Glutamate,0.7,Sensory Neuron,Single,Sensory neuron
+BDUL,Somatic,GABA,0.3,Interneuron,Single,Interneuron
+BDUR,Somatic,GABA,0.3,Interneuron,Single,Interneuron
+CEPDL,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron (Putative Mechanosensory)
+CEPDR,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron (Putative Mechanosensory)
+CEPVL,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron (Putative Mechanosensory)
+CEPVR,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron (Putative Mechanosensory)
+DA1,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA2,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA3,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA4,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA5,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA6,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA7,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA8,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DA9,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+DB1,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB2,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB3,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB4,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB5,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB6,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DB7,Somatic,Acetylcholine,1,Motor Neuron,Single,Ventral cord motor neuron
+DD1,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DD2,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DD3,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DD4,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DD5,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DD6,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+DVA,Somatic,GABA,0.2,Interneuron,Multiple,"Interneuron, stretch sensitive sensory neuron"
+DVB,Somatic,GABA,1,Motor Neuron,Multiple,Polymodal (Motor neuron/interneuron)
+DVC,Somatic,GABA,0.2,Interneuron,Single,Interneuron
+FLPL,Somatic,Glutamate,1,Sensory Neuron,Single,"Sensory neuron (Mechanosensory) (name originally derived from ""FLAP"")"
+FLPR,Somatic,Glutamate,1,Sensory Neuron,Single,"Sensory neuron (Mechanosensory) (name originally derived from ""FLAP"")"
+HSNL,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron
+HSNR,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron
+IL1DL,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL1DR,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL1L,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL1R,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL1VL,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL1VR,Somatic,Glutamate,1,Sensory Neuron,Multiple,"All polymodal: [Sensory neuron (Mechanosensory), Motor neuron, Interneuron]"
+IL2DL,Somatic,Serotonin,0.4,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+IL2DR,Somatic,Serotonin,0.4,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+IL2L,Somatic,Acetylcholine,1,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+IL2R,Somatic,Acetylcholine,1,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+IL2VL,Somatic,Serotonin,0.3,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+IL2VR,Somatic,Serotonin,0.3,Sensory Neuron,Single,Sensory neuron (Chemosensory?)
+LUAL,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+LUAR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+OLLL,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron
+OLLR,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron
+OLQDL,Somatic,Glutamate,1,Sensory Neuron,Multiple,All polymodal: [Sensory neuron (Mechanosensory) Interneuron]
+OLQDR,Somatic,Glutamate,1,Sensory Neuron,Multiple,All polymodal: [Sensory neuron (Mechanosensory) Interneuron]
+OLQVL,Somatic,Glutamate,1,Sensory Neuron,Multiple,All polymodal: [Sensory neuron (Mechanosensory) Interneuron]
+OLQVR,Somatic,Glutamate,1,Sensory Neuron,Multiple,All polymodal: [Sensory neuron (Mechanosensory) Interneuron]
+PDA,Somatic,Serotonin,0.3,Sensory Neuron,Multiple,Sensory - motor neuron
+PDB,Somatic,FMRFamide,0.5,Motor Neuron,Single,Motor neuron
+PDEL,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron
+PDER,Somatic,Dopamine,1,Sensory Neuron,Single,Sensory neuron
+PHAL,Somatic,Glutamate,0.4,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+PHAR,Somatic,Glutamate,0.4,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+PHBL,Somatic,Serotonin,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+PHBR,Somatic,Serotonin,1,Sensory Neuron,Single,Sensory neuron (Chemosensory)
+PHCL,Somatic,Glutamate,0.4,Sensory Neuron,Single,Sensory neuron (Mechanosensory?)
+PHCR,Somatic,Glutamate,0.4,Sensory Neuron,Single,Sensory neuron (Mechanosensory?)
+PLML,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+PLMR,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+PLNL,Somatic,Acetylcholine,1,Interneuron,Single,Neuron (Interneuron?)
+PLNR,Somatic,Acetylcholine,1,Interneuron,Single,Neuron (Interneuron?)
+PQR,Somatic,Glutamate,0.7,Sensory Neuron,Single,Putative mechanosensory neuron
+PVCL,Somatic,Glutamate,0.5,Interneuron,Single,Ventral cord interneuron
+PVCR,Somatic,Glutamate,0.5,Interneuron,Single,Ventral cord interneuron
+PVDL,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+PVDR,Somatic,Glutamate,1,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+PVM,Somatic,Glutamate,0.3,Sensory Neuron,Single,Sensory neuron (Mechanosensory)
+PVNL,Somatic,Glutamate,0.6,Interneuron,Multiple,Interneuron/motorneuron
+PVNR,Somatic,Glutamate,0.6,Interneuron,Multiple,Interneuron/motorneuron
+PVPL,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+PVPR,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+PVQL,Somatic,-,0.2,Interneuron,Single,Interneuron
+PVQR,Somatic,-,0.2,Interneuron,Single,Interneuron
+PVR,Somatic,Glutamate,1,Interneuron,Single,Interneuron
+PVT,Somatic,Glutamate,0.7,Interneuron,Single,Interneuron
+PVWL,Somatic,Serotonin,0.5,Interneuron,Single,Interneuron
+PVWR,Somatic,Serotonin,0.5,Interneuron,Single,Interneuron
+RIAL,Somatic,GABA,0.8,Interneuron,Single,Interneuron
+RIAR,Somatic,GABA,0.8,Interneuron,Single,Interneuron
+RIBL,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+RIBR,Somatic,Glutamate,0.5,Interneuron,Single,Interneuron
+RICL,Somatic,Octapamine,1,Interneuron,Single,Interneuron
+RICR,Somatic,Octapamine,1,Interneuron,Single,Interneuron
+RID,Somatic,GABA,1,Interneuron,Single,Interneuron
+RIFL,Somatic,Glutamate,0.3,Interneuron,Single,Interneuron
+RIFR,Somatic,Glutamate,0.3,Interneuron,Single,Interneuron
+RIGL,Somatic,FRMFemide,1,Interneuron,Single,Interneuron
+RIGR,Somatic,FRMFemide,1,Interneuron,Single,Interneuron
+RIH,Somatic,Serotonin,1,Interneuron,Single,Interneuron
+RIML,Somatic,"Acetylcholine, Tyramine",1,Motor Neuron,Single,Ring motor neuron
+RIMR,Somatic,"Acetylcholine, Tyramine",1,Motor Neuron,Single,Ring motor neuron
+RIPL,Somatic,Serotonin,0.2,Interneuron,Single,Ring/Pharynx interneuron
+RIPR,Somatic,Serotonin,0.2,Interneuron,Single,Ring/Pharynx interneuron
+RIR,Somatic,-,0.2,Interneuron,Single,Ring interneuron
+RIS,Somatic,GABA,1,Interneuron,Single,Interneuron
+RIVL,Somatic,GABA,0.4,Interneuron,Multiple,Polymodal (interneuron/motor neuron)
+RIVR,Somatic,GABA,0.4,Interneuron,Multiple,Polymodal (interneuron/motor neuron)
+RMDDL,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMDDR,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMDL,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMDR,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMDVL,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMDVR,Somatic,Acetylcholine,1,Motor Neuron,Single,Ring motor neuron
+RMED,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+RMEL,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+RMER,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+RMEV,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+RMFL,Somatic,Glutamate,1,Motor Neuron,Single,Motor neuron
+RMFR,Somatic,Glutamate,1,Motor Neuron,Single,Motor neuron
+RMGL,Somatic,FRMFemide,1,Interneuron,Single,Interneuron
+RMGR,Somatic,FRMFemide,1,Interneuron,Single,Interneuron
+RMHL,Somatic,Glutamate,0.5,Motor Neuron,Single,Motor neuron
+RMHR,Somatic,Glutamate,0.5,Motor Neuron,Single,Motor neuron
+SAADL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SAADR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SAAVL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SAAVR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SABD,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SABVL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SABVR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SDQL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SDQR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIADL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIADR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIAVL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIAVR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIBDL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIBDR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIBVL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SIBVR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+SMBDL,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMBDR,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMBVL,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMBVR,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMDDL,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMDDR,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMDVL,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+SMDVR,Somatic,Acetylcholine,1,Motor Neuron,Multiple,Motor neuron/interneuron
+URADL,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+URADR,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+URAVL,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+URAVR,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+URBL,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+URBR,Somatic,Acetylcholine,1,Interneuron,Single,Interneuron
+URXL,Somatic,Glutamate,0.4,Sensory Neuron,Multiple,"Sensory neuron (oxygen sensor), also ring interneuron"
+URXR,Somatic,Glutamate,0.4,Sensory Neuron,Multiple,"Sensory neuron (oxygen sensor), also ring interneuron"
+URYDL,Somatic,Glutamate,0.7,Sensory Neuron,Single,Sensory neuron
+URYDR,Somatic,Glutamate,0.7,Sensory Neuron,Single,Sensory neuron
+URYVL,Somatic,Glutamate,0.6,Sensory Neuron,Single,Sensory neuron
+URYVR,Somatic,Glutamate,0.6,Sensory Neuron,Single,Sensory neuron
+VA1,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA10,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA11,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA12,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA2,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA3,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA4,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA5,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA6,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA7,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA8,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VA9,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB1,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB10,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB11,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB2,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB3,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB4,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB5,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB6,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB7,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB8,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VB9,Somatic,Acetylcholine,1,Motor Neuron,Single,Motor neuron
+VC1,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VC2,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VC3,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VC4,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VC5,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VC6,Somatic,"Serotonin, Acetylcholine",1,Motor Neuron,Single,Motor neuron (Hermaphrodite specific)
+VD1,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD10,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD11,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD12,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD13,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD2,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD3,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD4,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD5,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD6,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD7,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD8,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
+VD9,Somatic,GABA,1,Motor Neuron,Single,Motor neuron
